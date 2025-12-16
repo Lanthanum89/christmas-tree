@@ -4,8 +4,8 @@ A festive animated Christmas tree using Python's turtle graphics library with sp
 
 ## Features
 
-- Three-layered Christmas tree with realistic colors
-- Animated ornaments that change colors
+- Three-layered Christmas tree with realistic colours
+- Animated ornaments that change colours
 - Twinkling gold star on top
 - Random sparkle effects throughout the tree
 - Midnight blue winter night background
@@ -33,3 +33,4 @@ The animation uses multiple turtle objects to create different elements:
 - Star that alternates between gold, yellow, and orange
 
 The animation loop updates every 500ms to create smooth, festive sparkles.
+
